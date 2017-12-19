@@ -1,3 +1,9 @@
+PATH
+  remote: .
+  specs:
+    brume (1.1.1)
+      jekyll (~> 3.4)
+
 GEM
   remote: https://rubygems.org/
   specs:
@@ -17,8 +23,6 @@ GEM
       pathutil (~> 0.9)
       rouge (>= 1.7, < 3)
       safe_yaml (~> 1.0)
-    jekyll-feed (0.9.2)
-      jekyll (~> 3.3)
     jekyll-sass-converter (1.5.1)
       sass (~> 3.4)
     jekyll-watch (1.5.1)
@@ -30,11 +34,10 @@ GEM
       rb-inotify (~> 0.9, >= 0.9.7)
       ruby_dep (~> 1.2)
     mercenary (0.3.6)
-    minima (2.1.1)
-      jekyll (~> 3.3)
     pathutil (0.16.1)
       forwardable-extended (~> 2.6)
     public_suffix (3.0.1)
+    rake (10.5.0)
     rb-fsevent (0.10.2)
     rb-inotify (0.9.10)
       ffi (>= 0.5.0, < 2)
@@ -51,10 +54,9 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  jekyll (~> 3.6.2)
-  jekyll-feed (~> 0.6)
-  minima (~> 2.0)
-  tzinfo-data
+  brume!
+  bundler (~> 1.12)
+  rake (~> 10.0)
 
 BUNDLED WITH
    1.16.0
