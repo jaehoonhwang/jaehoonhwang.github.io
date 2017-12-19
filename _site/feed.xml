@@ -6,9 +6,24 @@
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
     <description></description>
     <language>en-us</language>
-    <pubDate>Mon, 18 Dec 2017 22:36:33 -0800</pubDate>
-    <lastBuildDate>Mon, 18 Dec 2017 22:36:33 -0800</lastBuildDate>
+    <pubDate>Mon, 18 Dec 2017 22:47:14 -0800</pubDate>
+    <lastBuildDate>Mon, 18 Dec 2017 22:47:14 -0800</lastBuildDate>
 
+    
+      <item>
+        <title>Opening day</title>
+        <link>http://localhost:4000/openning-day</link>
+        <pubDate>Mon, 18 Dec 2017 10:55:33 -0800</pubDate>
+        <author></author>
+        <description>&lt;p&gt;&lt;strong&gt;Hello, World!&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Well, first of all, thanks to &lt;a href=&quot;https://github.com/aigarsdz/brume&quot;&gt;brume theme&lt;/a&gt;, I now have a website?&lt;/p&gt;
+
+&lt;p&gt;Anyway, working with jekyll has been a rollercoaster ride for me. Confused, Amazed, and bufuddled.&lt;/p&gt;
+
+&lt;p&gt;This is it. I guess. See you later blog.&lt;/p&gt;
+</description>
+      </item>
     
       <item>
         <title>Place Holder Project</title>
