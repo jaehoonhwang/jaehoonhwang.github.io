@@ -1,8 +1,8 @@
 ---
 layout: page
-date:   2017-12-14 00:11:33 -0800
-title: Demo Project
+date: 2017-12-18 00:11:33 -0800
+title: Place Holder Project
 categories: project
 ---
 
-Dank memer
+Place Holder

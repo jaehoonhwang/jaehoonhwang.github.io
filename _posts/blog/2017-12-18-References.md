@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Demo post
+date: 2017-12-18 00:00:00 -0800
+title: References
 ---
 
 Praesent tincidunt vestibulum sem nec eleifend. Pellentesque adipiscing mollis adipiscing. Sed ipsum sem, eleifend eget dapibus in, tincidunt ut dolor. Curabitur gravida urna leo, eget auctor turpis feugiat non. Vivamus pharetra, lorem id ullamcorper rutrum, eros erat condimentum erat, ac dignissim lorem nisi nec nunc. Praesent tellus mi, volutpat quis nisl et, consectetur blandit nibh.
@@ -60,3 +61,30 @@ Nam vulputate leo vitae libero vehicula, id tincidunt velit malesuada. In vel or
 </pre></div>
 
 Sed imperdiet interdum ultrices. Phasellus iaculis porttitor lorem nec scelerisque. Suspendisse eros urna, adipiscing vel luctus at, feugiat sit amet arcu. Aliquam porttitor ut urna pellentesque sagittis. Donec pellentesque venenatis diam sit amet cursus. Etiam luctus, metus quis gravida fermentum, tortor arcu consequat metus, eget viverra augue risus ac dui. Fusce faucibus scelerisque quam eu sagittis. Sed sit amet sapien non augue lobortis adipiscing. Sed sagittis at lectus eu tempus. Nulla non nulla ut ante condimentum mattis vel at lectus. Nulla ultricies dui et urna semper ultrices. Sed neque ante, dictum in dignissim luctus, facilisis ornare odio. Aenean tempor ultrices magna non pharetra. Curabitur vulputate nec est aliquet suscipit. Etiam ipsum sapien, dictum quis tristique vel, pretium at elit.
+
+# Video Example
+
+<iframe src="https://player.vimeo.com/video/214092083?badge=0" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<p><a href="https://vimeo.com/214092083">A Sense of Wonder</a> from <a href="https://vimeo.com/mathieulelay">Mathieu Le Lay</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+
+# Welcome to Jekyll
+
+to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+
+To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+
+Jekyll also offers powerful support for code snippets:
+
+{% highlight ruby %}
+def print_hi(name)
+  puts "Hi, #{name}"
+end
+print_hi('Tom')
+#=> prints 'Hi, Tom' to STDOUT.
+{% endhighlight %}
+
+Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+
+[jekyll-docs]: https://jekyllrb.com/docs/home
+[jekyll-gh]:   https://github.com/jekyll/jekyll
+[jekyll-talk]: https://talk.jekyllrb.com/
