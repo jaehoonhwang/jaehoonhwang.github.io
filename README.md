@@ -1,40 +1,68 @@
-# brume
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-I am not a designer so I cannot impress you with breathtaking Jekyll themes, but brume is something that just came to my mind and I had to build it. It is a clean and simple theme, which has an index page that lists all your blog posts divided by the year, a single post page and a layout for any additional pages you might need.
+## Available Scripts
 
-This is how the "Home" page looks like.
+In the project directory, you can run:
 
-![Home](https://raw.githubusercontent.com/aigarsdz/brume/master/screenshots/home.png)
+### `yarn start`
 
-And this is a single post.
+Runs the app in the development mode.<br />
+Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-![Post](https://raw.githubusercontent.com/aigarsdz/brume/master/screenshots/post_1.png)
+The page will reload if you make edits.<br />
+You will also see any lint errors in the console.
 
-![Post. More content examples.](https://raw.githubusercontent.com/aigarsdz/brume/master/screenshots/post_2.png)
+### `yarn test`
 
-## Usage
+Launches the test runner in the interactive watch mode.<br />
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-Brume can be installed just like any other Jekyll theme as described [here](https://jekyllrb.com/docs/themes/#installing-a-theme),
-but there are a couple of additional steps you have to take.
+### `yarn build`
 
-1. All the links are defined in a file *_data/links.yml*, therefore you'll have to create a *_data*
-directory and put this file there in order for navigation to be displayed.
-2. Brume uses `home` layout for the home page (like the default Jekyll theme). All you need to do
-is create an *index.html* or *index.md* file with `layout: home`. If you want the home page to be
-listed in the navigation you have to add `title` to it's front matter that matches
-the title you used for the home page link in the *links.yml* file. Titles are used to indicate
-the current page.
+Builds the app for production to the `build` folder.<br />
+It correctly bundles React in production mode and optimizes the build for the best performance.
 
-## Theme customization
+The build is minified and the filenames include the hashes.<br />
+Your app is ready to be deployed!
 
-This theme has 4 predefined colors that can be used for links:
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-- azul
-- ruby
-- amber
-- avocado
+### `yarn eject`
 
-By default it uses *avocado*, but if you want to select another one just change the `color_scheme` setting in
-*_config.yml* file.
+**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
 
-Express your thoughts about brume on Twitter [@aigarsdz](http://twitter.com/aigarsdz), and help me make it better!
+If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+
+Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+
+You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+
+## Learn More
+
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+
+To learn React, check out the [React documentation](https://reactjs.org/).
+
+### Code Splitting
+
+This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
+
+### Analyzing the Bundle Size
+
+This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
+
+### Making a Progressive Web App
+
+This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
+
+### Advanced Configuration
+
+This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
+
+### Deployment
+
+This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
+
+### `yarn build` fails to minify
+
+This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify

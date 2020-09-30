@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1640" height="540" viewBox="0 0 1640 540">
+  <g id="Icon" transform="translate(-95.426 -201)">
+    <rect id="Background" width="1640" height="540" transform="translate(95.426 201)" fill="rgba(0,0,0,0.85)"/>
+    <g id="Computer" transform="translate(876.309 326.36)">
+      <path id="Path_11" data-name="Path 11" d="M95.8,77.655H48.745c-18.677,0-27.429-1.757-31.5-10.126L.119,23.542C-.338,19.464-.408.125,18.268.125H84.6c18.677,0,24.07-1.341,29.02,4.755l3.028,62.648C116.65,74.9,114.474,77.655,95.8,77.655Z" transform="translate(158.58 152.447) rotate(45)" fill="#036497"/>
+      <path id="Path_10" data-name="Path 10" d="M93.408,77.343H47.529c-18.211,0-26.744-1.75-30.71-10.085L.116,23.448C-.329,19.386-.4.125,17.813.125H82.491c18.211,0,23.47-1.336,28.3,4.736l2.953,62.4C113.74,74.6,111.619,77.343,93.408,77.343Z" transform="translate(160.457 340.506) rotate(-90)" fill="#0075b2"/>
+      <path id="Path_8" data-name="Path 8" d="M15.05,0H97.7c18.211,0,32.973,14.064,32.973,31.413V151.026c0,17.349-14.763,31.414-32.973,31.414H33.019C14.809,182.44.046,168.376.046,151.026V31.413C.046,14.064-3.161,0,15.05,0Z" transform="translate(104.119 26.85)" fill="#0075b2"/>
+      <path id="Path_9" data-name="Path 9" d="M139.811,0H62.69C44.479,0,40.936,6.082,34.4,23.948L0,151.026c0,17.349,14.763,31.413,32.973,31.413H97.652c18.211,0,23.164.368,27.99-13.979l36.6-144.633C162.247,6.479,158.022,0,139.811,0Z" transform="translate(194.642 179.47) rotate(90)" fill="#068bd1"/>
+      <path id="Path_7" data-name="Path 7" d="M39.5,6.36,176.235,12.8c20.995,0,27.271,21.672,27.271,40.7V215.558c0,19.025-6.372,27.889-27.367,27.889L25.3,213.442c-20.6.884-15.989-25.649-15.989-44.674V36.936C9.306,17.91,18.5,6.36,39.5,6.36Z" transform="translate(-8.865 -6.36)" fill="#78ccf8"/>
+      <path id="Path_6" data-name="Path 6" d="M-2.151,52.8l145.258,9.308V251.828L-2.151,222.346Z" transform="translate(17.35 -30.684)" fill="#fe0"/>
+    </g>
+    <g id="Keyboard" transform="translate(752.196 570.267)">
+      <path id="Path_2" data-name="Path 2" d="M0,0,191.5,48.192V96.25L0,48.192Z" transform="translate(0 16.887)" fill="#0282c5"/>
+      <path id="Path_4" data-name="Path 4" d="M0,4.447,77.694-16.579V27.475L0,52.638Z" transform="translate(191.499 60.632)" fill="#1ab0fe"/>
+      <path id="Path_3" data-name="Path 3" d="M100.989,24.684l168.2,44.054L191.5,89.63,0,41.571Z" transform="translate(0 -24.684)" fill="#53c2fc"/>
+    </g>
+    <g id="Me" transform="translate(713.44 413.41)">
+      <ellipse id="Ellipse_1" data-name="Ellipse 1" cx="89.5" cy="90" rx="89.5" ry="90" transform="translate(20.986 -0.41)" fill="#ff9710"/>
+      <ellipse id="Ellipse_3" data-name="Ellipse 3" cx="58.338" cy="20.291" rx="58.338" ry="20.291" transform="translate(77.538 173.437) rotate(-13)" fill="#e28000"/>
+      <ellipse id="Ellipse_2" data-name="Ellipse 2" cx="58.338" cy="20.291" rx="58.338" ry="20.291" transform="translate(126.998 193.729) rotate(-13)" fill="#f88d01"/>
+      <path id="Path_1" data-name="Path 1" d="M90.363,0c49.379,0,89.409,40.314,89.409,90.043s18.7,82.009-89.409,78.162S.752,132.084.389,90.043,40.984,0,90.363,0Z" transform="translate(3.56 116.675)" fill="#ff9710"/>
+    </g>
+    <ellipse id="Ellipse_4" data-name="Ellipse 4" cx="75.5" cy="77" rx="75.5" ry="77" transform="translate(1413.426 249)" fill="#bcbcbc"/>
+  </g>
+</svg>

@@ -1,0 +1,12 @@
+.entry_title_box {
+    list-style-type: none;
+    padding: 0;
+}
+
+.entry_title_box li {
+    padding: 5px;
+}
+
+.entry_timestamp {
+    padding: 0px 0px 0px 10px;
+}
