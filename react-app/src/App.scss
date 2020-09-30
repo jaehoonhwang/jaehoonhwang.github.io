@@ -2,7 +2,9 @@
 
 $primary-color: #FFA73C;
 $secondary-color: #E15D3A;
+$tertiary-color: #f46969;
 $background-color: #282528;
+$background-light-color: #4b464b;
 
 body, div {
     background-color: $background-color;
@@ -11,6 +13,23 @@ body, div {
 
 a {
     color: $secondary-color;
+}
+
+a:hover {
+    color: $tertiary-color;
+    background-color: $background-light-color;
+    border: 0;
+}
+
+.nav-tabs {
+    border: 0;
+}
+
+.nav-tabs .nav-link.active, .nav-tabs .nav-item.show .nav-linke {
+    color: $tertiary-color;
+    background-color: $background-light-color;
+    border-bottom: 0;
+    border: 0;
 }
 
 h1.page-header {
